@@ -1,5 +1,7 @@
 # Computer Vision
 
+SIG Class work containing  assignments 
+
 This repository contains my **Computer Vision and Digital Image Processing practice projects** implemented using **Python**. The purpose of this repository is to explore and implement fundamental concepts used in computer vision and image processing.
 
 Each folder in this repository represents a **separate experiment or project** related to computer vision.
